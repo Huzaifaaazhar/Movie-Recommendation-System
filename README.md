@@ -1,5 +1,5 @@
 # Movie Recommendation System
-This project aims to build a system that provides personalized movie recommendations to users based on their preferences and viewing history. The system leverages collaborative filtering and content-based filtering techniques to suggest movies that users are likely to enjoy.
+This project aims to build a system that provides personalized movie recommendation system to users based on their preferences and viewing history. The system leverages collaborative filtering and content-based filtering techniques to suggest movies that users are likely to enjoy.
 
 ## Table of Contents
 - [Introduction](#introduction)
